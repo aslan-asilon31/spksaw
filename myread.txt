@@ -1,0 +1,5 @@
+login : 
+ps dan user : admin
+
+Sistem Pendukung Keputusan untuk pemilihan Manajer IT yang baru dengan metode SAW (Simple Additive Weighting) menggunakan PHP dan MySQL
+Demo : https://spksaw.sulaslansetiawan.cfd/
